@@ -9,7 +9,7 @@ O 'Podcast sobre programação' é uma adaptação em aúdio de alguns capítulo
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chat.openai.com/): criação do conteúdo em texto.
 - [Hour One](https://hourone.ai/): conversão de texto para voz sintetizada (Text-to-Speech).
-- kdenlive: editor de aúdio/video utilizado para produzir a versão final do podcast.
+- [kdenlive](https://kdenlive.org/en/): editor de aúdio/video utilizado para produzir a versão final do podcast.
 
 ## 🧐 Processo de Criação
 - Usei o "ChatGPT" para adaptar os capítulos do eBook para um roteiro de podcast.
@@ -17,9 +17,9 @@ O 'Podcast sobre programação' é uma adaptação em aúdio de alguns capítulo
 - Por fim use o aplicativo kdenlive para unir apresentação, desenvolvimento e finalização do podcast.
 
 ## 🚀 Resultados
-[Links para o episódio 1 do podcast](2-episodios/ep1/ep1-final.mp3)
-[Links para o episódio 2 do podcast](2-episodios/ep2/ep2-final.mp3)
-[Links para o episódio 3 do podcast](2-episodios/ep3/ep3-final.mp3)
+- [Link para o episódio 1 do podcast](2-episodios/ep1/ep1-final.mp3)
+- [Link para o episódio 2 do podcast](2-episodios/ep2/ep2-final.mp3)
+- [Link para o episódio 3 do podcast](2-episodios/ep3/ep3-final.mp3)
 
 ## 💭 Reflexão
 - Este projeto foi uma experiência importante para mostrar o que as IAs Generativas podem fazer com poucos cliques.
