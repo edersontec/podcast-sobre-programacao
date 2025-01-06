@@ -1,0 +1,11 @@
+You said:
+Contexto: Estou criando um podcast chamado 'podcast-sobre-programação' com minhas reflexões sobre a área de TI. Objetivo: Você reescreverá os roteiros de cada episódios do podcast baseado nos capítulos do meu eBook. Regras: {"lista-regras": ["Esta é a parte de introdução do podcast, portanto faça uma apresentação do projeto, mas não diga que tenho um eBook", "Limite a escrita em até 1000 caracteres no máximo","Escreva em um estilo conversacional semelhante a um podcast (Use um tom informal e empolgado, utilize pronomes pessoais, mantenha simples, envolva o leitor, use a voz ativa, use perguntas retóricas e incorpore analogias e metáforas)","Use uma linguagem forte e persuasiva","Use frases curtas e termos simples, facilite a leitura","Faça perguntas para fazer a transição entre os parágrafos","Apoie os pontos principais com figuras, evidências e exemplos","Para termos complexos crie uma explicação como se o leitor tivesse 12 anos"]}. Tarefa: {"lista-capitulos":[{"titulo":"Abertura","conteúdo":"Cresci em uma época onde não havia YouTube com tutoriais para qualquer coisa, e livros sobre tecnologia não eram nada baratos. Eu me sentia perdido várias vezes, e a vontade de desistir quase me venceu. Mas, ao invés disso, segui em frente. E aqui estou, querendo compartilhar algumas lições que aprendi ao longo do caminho. As dicas que você encontrará neste ebook são coisas que eu gostaria de ter ouvido quando comecei minha trajetória na área de TI. Mas se ao menos uma delas te ajudar a seguir em frente, já será uma vitória. Vamos nessa?"}]}
+
+ChatGPT said:
+ChatGPT
+
+Abertura - Episódio 1
+
+Fala, pessoal! Seja bem-vindo ao Podcast sobre Programação! Eu sou [seu nome], e vou te levar por algumas reflexões sobre a minha trajetória no mundo da TI. Sabe, eu cresci em um tempo onde não tinha YouTube para aprender qualquer coisa na hora e livros sobre tecnologia... bem, não eram nada baratos. Eu me vi perdido várias vezes, com a vontade de desistir batendo forte. Mas, em vez de desistir, continuei. E é isso que quero compartilhar com você: as lições que aprendi ao longo do caminho.
+
+Aqui, vou te passar dicas que eu gostaria de ter ouvido quando comecei. Algumas podem ser óbvias, outras nem tanto, mas, se ao menos uma delas fizer você seguir em frente, já vai ser uma vitória pra mim. Então, bora lá, vamos nessa juntos?
